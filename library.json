@@ -1,0 +1,25 @@
+{
+    "name": "Winbond",
+    "version": "1.0.0",
+    "description": "Winbond flash memory W25Q80DV for stm32",
+    "keywords": "winbond, stm32, spiflash",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/username/hello-world.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Ta Minh Nhat",
+        "email": "taminhnhat98@gmail.om",
+        "url": "https://taminhnhat.github.io/"
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://taminhnhat.github.io/",
+    "dependencies": {
+    },
+    "frameworks": "Arduino",
+    "platforms": "stm32 blackpill"
+  }
